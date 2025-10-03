@@ -1,0 +1,5 @@
+/desktop/package-lock.json
+/api/package-lock.json
+/desktop/node_modules
+/api/node_modules
+.env
